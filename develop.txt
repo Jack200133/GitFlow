@@ -5,3 +5,5 @@ Avances dentro de Develop
 Cambio de tipo a .txt
 
 Se mira que todo este terminado para el release
+
+se continua con el Develop
